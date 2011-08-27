@@ -101,7 +101,7 @@ $show_in = array(
 	$out .= '
 	<div class="wrap">
 
-	<h2>'.__( 'Facebook and Twitter share buttons', 'menu-test' ).'</h2>
+	<h2>'.__( 'Social Share Elite', 'menu-test' ).'</h2>
 	<div id="poststuff" style="padding-top:10px; position:relative;">
 		<div style="float:left; width:74%; padding-right:1%;">
 	<form name="form1" method="post" action="">
