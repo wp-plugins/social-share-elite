@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Social Share Elite
+Plugin Name: Sharely 
 Description: Get the most advanced solution for social media integration for your business blog and make the most of your online presence.
 Author: Rohan Pawale
 Author URI: http://techlunatic.com

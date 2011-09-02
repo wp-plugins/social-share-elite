@@ -4,7 +4,7 @@ The main admin page for this plugin. The logic for different user input and form
 */
 
 function rp_twitter_facebook_admin_menu() {
-add_options_page('Social Share Elite', 'Social Share Elite', 'administrator',
+add_options_page('Social Share Elite','Sharely', 'administrator',
 'rp-social-share', 'rp_twitter_facebook_admin_page');
 }
 
