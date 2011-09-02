@@ -43,7 +43,7 @@ Very easy to install, similar to rest of the plugins.
 1. Download and unzip the plugin .zip file.<br />
 2. Copy the unzipped folder in your Plugins directory under wordpress installation. (wp-content/plugins)<br />
 3. Activate the plugin through the plugin window in the admin panel.<br />
-4. Configure the settings through Settings->TWG Social Share in the admin panel.
+4. Configure the settings through Settings-> Social Share Elite in the admin panel.
 
 == Frequently Asked Questions ==
 
