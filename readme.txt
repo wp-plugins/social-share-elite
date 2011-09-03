@@ -1,4 +1,4 @@
-=== Sharely ===
+=== Social Share Elite ===
 Contributors: Rohan Pawale
 Plugin Site: http://techlunatic.com
 Tags: Facebook like, twitter button, twitter share,buffer button,LinkedIn, Google +1 (plus one) button, Google plus one, Stumbleupon, social share, twitter facebook share, google +1 share
